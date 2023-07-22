@@ -7,6 +7,7 @@ Widget pageTitle() {
       fontSize: 30,
       color: Colors.white,
       fontWeight: FontWeight.bold,
+      letterSpacing: 1.8,
     ),
   );
 }
