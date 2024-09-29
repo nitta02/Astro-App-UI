@@ -19,7 +19,7 @@ This Project basically design for astro app ui.
 - 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
+
 ## Screenshots
 
-![astro app](https://github.com/nitta02/flutter_moon_app/assets/110607962/77a0aec8-6154-4e70-92d4-fe6983126870)
-
+![Screenshots](assets/images/astro.png)
